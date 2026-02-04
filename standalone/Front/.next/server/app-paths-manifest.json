@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/asset/route": "app/api/asset/route.js",
+  "/api/avatar/route": "app/api/avatar/route.js",
+  "/api/characters/route": "app/api/characters/route.js",
+  "/api/equip/route": "app/api/equip/route.js",
+  "/api/inventory/route": "app/api/inventory/route.js",
+  "/api/wear/route": "app/api/wear/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/home/page": "app/home/page.js",
+  "/page": "app/page.js"
+}

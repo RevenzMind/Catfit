@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/asset/route": "/api/asset",
+  "/api/avatar/route": "/api/avatar",
+  "/api/characters/route": "/api/characters",
+  "/api/equip/route": "/api/equip",
+  "/api/inventory/route": "/api/inventory",
+  "/api/wear/route": "/api/wear",
+  "/favicon.ico/route": "/favicon.ico",
+  "/home/page": "/home",
+  "/page": "/"
+}
