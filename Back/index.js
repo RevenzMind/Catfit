@@ -41,10 +41,15 @@ function startServer() {
 }
 
 async function createWindow() {
+  const iconPath = app.isPackaged 
+    ? path.join(process.resourcesPath, 'icon.png')
+    : path.join(__dirname, '../Front/public/icon.png')
+  
   win = new BrowserWindow({
     width: 850,
     height: 550,
     title: 'Roblox Avatar',
+    icon: iconPath,
     resizable: false,
     darkTheme: true,
     frame: false,

@@ -26,16 +26,22 @@
       {
         "from": "standalone",
         "to": "standalone"
+      },
+      {
+        "from": "Front/public/icon.png",
+        "to": "icon.png"
       }
     ],
     "win": {
-      "target": ["dir", "nsis"]
+      "target": [
+        "dir",
+        "nsis"
+      ],
+      "icon": "Front/public/icon-256.png"
     },
     "nsis": {
       "oneClick": false,
-      "allowToChangeInstallationDirectory": true,
-      "installerIcon": null,
-      "uninstallerIcon": null
+      "allowToChangeInstallationDirectory": true
     }
   },
   "dependencies": {
