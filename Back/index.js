@@ -23,8 +23,8 @@ function startServer() {
 async function createWindow() {
   await startServer()
   win = new BrowserWindow({
-    width: 800,
-    height: 500,
+    width: 850,
+    height: 550,
     title: 'Roblox Avatar',
     resizable: false,
     darkTheme: true,
