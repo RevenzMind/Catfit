@@ -28,8 +28,8 @@ export default function Sidebar({ userData, onLogout }: SidebarProps) {
                 <Image src="/Frame 5.svg" alt="Catvatar logo" fill className="object-contain p-1" priority />
               </div>
               <div className="min-w-0">
-                <h1 className="text-base font-black tracking-tight text-white leading-none">Catvatar</h1>
-                <p className="mt-1 text-[9px] uppercase tracking-[0.28em] text-zinc-500">Amoled avatar editor</p>
+                <h1 className="text-base font-black tracking-tight text-white leading-none">Catfit</h1>
+                <p className="mt-1 text-[9px] uppercase tracking-[0.28em] text-zinc-500">outfit editor</p>
               </div>
             </div>
           </div>
