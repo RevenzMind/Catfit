@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="808" height="508" alt="Catvatar Preview" src="Front/Public/Start.png" />
+  <img width="808" height="508" alt="Catvatar Preview" src="https://github.com/user-attachments/assets/97f57ac2-2cfb-4eca-88bf-4dcb63b13380" />
 </p>
 
 <h1 align="center">🐱 Catvatar</h1>
