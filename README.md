@@ -2,10 +2,10 @@
   <img width="808" height="508" alt="Catvatar Preview" src="https://github.com/user-attachments/assets/97f57ac2-2cfb-4eca-88bf-4dcb63b13380" />
 </p>
 
-<h1 align="center">🐱 Catvatar</h1>
+<h1 align="center">🐱 Catfit</h1>
 
 <p align="center">
-  <strong>A sleek desktop app to customize your Roblox avatar</strong>
+  <strong>A sleek desktop app to change between your Roblox outfits</strong>
 </p>
 
 <p align="center">
@@ -19,18 +19,16 @@
 ## ✨ Features
 
 - 🎭 **Outfit Management** - Browse and equip your saved outfits with one click
-- 👕 **Inventory Browser** - View and wear/remove items from your inventory
-- 🎨 **Category Filters** - Filter items by 39+ asset categories
 - 🖼️ **Live Preview** - See your avatar thumbnail update in real-time
-- 🌙 **Dark Theme** - Beautiful Windows 11-inspired dark UI
+- 🌙 **Dark Theme** - Beautiful dark UI
 
 ## 📦 Installation
 
 ### Option 1: Installer
-Download `Catvatar Setup 1.0.0.exe` and run it to install.
+Download `Catfit.exe` and run it to install.
 
 ### Option 2: Portable
-Download the `win-unpacked` folder and run `Catvatar.exe` directly.
+Download the `win-unpacked` folder and run `Catfit.exe` directly.
 
 ## 🔧 Development
 
@@ -62,7 +60,6 @@ This app uses your Roblox `.ROBLOSECURITY` cookie to authenticate. Your cookie i
 ├── Front/          # Next.js frontend
 │   ├── app/        # Pages and API routes
 │   └── public/     # Static assets
-├── standalone/     # Production build output
 └── dist/           # Electron packaged app
 ```
 
